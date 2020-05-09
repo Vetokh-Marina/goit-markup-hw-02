@@ -1,0 +1,28 @@
+/* основной цвет + номер телефона в шапке #757575 */
+/* цвет акцент #2196F3 */
+/* белый #ffffff */
+/* цвет заголовков #212121 */
+/* футер rgba(255,255,255,0.6) */
+
+
+:root{
+    --primary-text-color: #757575;
+    --title-text-color: #212121;
+    --accent-text-color: #2196F3;
+    --primary-white-color:#ffffff;
+}
+
+body{
+    font-family: Roboto,sans-serif;
+    background-color: var(--primary-white-color);
+    color: var(--primary-text-color);
+}
+
+/*Логотип*/
+.logo-web{
+    color: #2196F3;
+}
+.logo-studio{
+    color: black;
+
+}
