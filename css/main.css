@@ -43,7 +43,9 @@ body{
 }
 .logo-studio{
     color: black;
-
+}
+.logo-footer{
+    color: var(--primary-white-color);
 }
 /* Навигация сайта */
 .site-nav .link{
@@ -69,5 +71,7 @@ body{
 .contact:hover{
     color: var(--accent-text-color);
 }
-
+footer{
+    background-color:#2F303A; ;
+}
 
