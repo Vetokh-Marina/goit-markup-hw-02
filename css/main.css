@@ -74,4 +74,8 @@ body{
 footer{
     background-color:#2F303A; ;
 }
-
+address{
+    text-decoration: none;
+    color: var(--primary-white-color);
+    font-style: normal;
+}
