@@ -79,3 +79,11 @@ address{
     color: var(--primary-white-color);
     font-style: normal;
 }
+.h3-foot{
+    color: var(--primary-white-color);
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+}
