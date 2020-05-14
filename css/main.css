@@ -10,13 +10,12 @@
     --title-text-color: #212121;
     --accent-text-color: #2196F3;
     --primary-white-color:#ffffff;
-    --accent-color:#664704;
-
+    
 }
 
 body{
     font-family: Roboto,sans-serif;
-    background-color: var(--accent-color);
+    background-color: var(--primary-white-color);
     color: var(--primary-text-color);
    
 }
